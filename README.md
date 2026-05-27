@@ -131,6 +131,3 @@ Software Developer
 * Backend & Cloud Integration
 * ERP Integration
 
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
-LinkedIn: [https://linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-Email: [yourmail@example.com](mailto:yourmail@example.com)
